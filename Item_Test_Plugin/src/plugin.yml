@@ -1,0 +1,10 @@
+name: ItemPlugin
+author: PredictionKing
+version: 1.0
+main: de.cultcraft.testplugin.ItemPlugin
+description: ItemPlugin to for special usecase of Items
+
+commands:
+ magic:
+  description: Adds a Wand to your selected InventorySlot
+  usage: /magic
